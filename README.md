@@ -1,16 +1,20 @@
 这是什么？
-======
+===
 > 这个库是实现console.log()支持 %c 占位符的特性的一个垫片
 
+支持
+===
+暂时只支持 node `v8.4` 以上版本
+
 如何使用？
------
+---
 ```
 const console = require('@lianj/css-console');
 console.log('%c INFO ', 'background: red');
 ```
 
 支持的CSS？
--------
+---
 - [x] background-color: hex
 - [x] background-color: keyword
 - [x] color: hex
