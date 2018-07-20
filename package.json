@@ -1,6 +1,6 @@
 {
-  "name": "@lianj/css-console",
-  "version": "1.0.0",
+  "name": "@lianj-fex/css-console",
+  "version": "1.0.1",
   "description": "一个让node支持%c的console库",
   "browser": "src/browser.js",
   "main": "src/index.js",
