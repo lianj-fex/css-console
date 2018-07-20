@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianj-fex/css-console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lianj-fex/css-console/issues"
+  },
+  "homepage": "https://github.com/lianj-fex/css-console#readme"
 }
